@@ -27,7 +27,11 @@
 			}else{
 				for (int i=0; i < majors.legth; i++)
 					out.println(majors[i]+" ");
-				
+
+
+
+    111
+    
 				
 			}
 		  %>
